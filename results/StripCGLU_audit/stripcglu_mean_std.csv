@@ -1,0 +1,2 @@
+﻿n,mAP@0.5_mean,mAP@0.5_std,mAP@0.5:0.95_mean,mAP@0.5:0.95_std,AP-small_mean,AP-small_std,AP-medium_mean,AP-medium_std,AP-large_mean,AP-large_std
+5,0.9162,0.003,0.6668,0.0018,0.5543,0.0036,0.786,0.0016,0.6748,0.0361

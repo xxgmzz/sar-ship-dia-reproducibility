@@ -1,0 +1,6 @@
+﻿dataset,metric,n,mean_diff,pairdiff_std,t,p
+Cross_SSDD,mAP50,8,0.0081,0.0358,0.641,0.5417
+Cross_SSDD,mAP5095,8,0.003,0.0198,0.425,0.6835
+Cross_SSDD,APs,8,0.0181,0.0283,1.808,0.1135
+Cross_SSDD,APm,8,-0.0187,0.0178,-2.969,0.0209
+Cross_SSDD,APl,8,-0.0074,0.0666,-0.314,0.7626

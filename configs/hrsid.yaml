@@ -1,0 +1,8 @@
+# HRSID dataset configuration (Ultralytics format)
+# Reproducers: change `path` to the root folder containing images/ and labels/.
+path: ./data            # dataset root (contains images/ and labels/)
+train: images/train     # relative to path
+val: images/val         # relative to path
+
+names:
+  0: ship

@@ -1,0 +1,6 @@
+﻿dataset,metric,pairdiff_std,n_for_d0.005,n_for_d0.01,n_for_d0.02,n_for_d0.03,n_for_d0.05
+HRSC,mAP50,0.0136,61,17,6,4,3
+HRSC,mAP5095,0.0055,12,5,3,3,3
+HRSC,APs,0.009,28,9,4,3,3
+HRSC,APm,0.004,8,4,3,3,2
+HRSC,APl,0.0035,7,4,3,3,2

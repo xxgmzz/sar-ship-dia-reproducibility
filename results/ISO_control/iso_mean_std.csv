@@ -1,0 +1,2 @@
+﻿variant,n,mAP@0.5_mean,mAP@0.5_std,mAP@0.5:0.95_mean,mAP@0.5:0.95_std,AP-small_mean,AP-small_std,AP-medium_mean,AP-medium_std,AP-large_mean,AP-large_std
+iso_l2_k3,8,0.919,0.0034,0.6683,0.0034,0.5551,0.0063,0.7883,0.0036,0.6912,0.0241

@@ -1,0 +1,3 @@
+﻿dataset,variant,n,mAP50_mean,mAP50_std,mAP5095_mean,mAP5095_std,APs_mean,APs_std,APm_mean,APm_std,APl_mean,APl_std
+HRSID,baseline,8,0.9187,0.0032,0.6667,0.0031,0.5511,0.0049,0.7883,0.0042,0.6902,0.0283
+HRSID,dia,8,0.9207,0.0029,0.6714,0.0017,0.5579,0.0023,0.7904,0.003,0.702,0.0284

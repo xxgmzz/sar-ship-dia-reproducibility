@@ -1,0 +1,6 @@
+﻿dataset,metric,n,single_MDE90,single_MDE95,paired_MDE_sig,paired_MDE_power80
+Cross_SSDD,mAP50,8,0.064,0.0763,0.03,0.0413
+Cross_SSDD,mAP5095,8,0.0317,0.0378,0.0165,0.0228
+Cross_SSDD,APs,8,0.0411,0.049,0.0236,0.0326
+Cross_SSDD,APm,8,0.0332,0.0396,0.0149,0.0206
+Cross_SSDD,APl,8,0.089,0.106,0.0557,0.0768

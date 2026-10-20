@@ -1,0 +1,2 @@
+﻿dataset,model,B,mAP50_validB,mAP5095_validB,APs_validB,APm_validB,APl_validB,mAP50_mean,mAP5095_mean,APs_mean,APm_mean,APl_mean,mAP50_bootstd,mAP5095_bootstd,APs_bootstd,APm_bootstd,APl_bootstd,mAP50_ci95,mAP5095_ci95,APs_ci95,APm_ci95,APl_ci95
+HRSID,rep_seed42,500,500,500,500,500,500,0.9134,0.664,0.5517,0.7857,0.6297,0.0074,0.0117,0.0122,0.0074,0.0506,"[0.8975,0.9273]","[0.6417,0.6867]","[0.5278,0.5749]","[0.7704,0.7997]","[0.5294,0.7196]"

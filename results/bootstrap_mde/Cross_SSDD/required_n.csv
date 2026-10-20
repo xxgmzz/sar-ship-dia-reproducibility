@@ -1,0 +1,6 @@
+﻿dataset,metric,pairdiff_std,n_for_d0.005,n_for_d0.01,n_for_d0.02,n_for_d0.03,n_for_d0.05
+Cross_SSDD,mAP50,0.0358,,103,28,14,7
+Cross_SSDD,mAP5095,0.0198,125,33,10,6,4
+Cross_SSDD,APs,0.0283,253,65,18,10,5
+Cross_SSDD,APm,0.0178,102,27,9,5,4
+Cross_SSDD,APl,0.0666,,351,90,41,16
