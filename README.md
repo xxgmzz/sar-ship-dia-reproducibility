@@ -32,6 +32,11 @@ study for the framework.
   and orientations (survives Bonferroni correction).
 - **Cross-domain (HRSID -> SSDD).** No significant mAP@0.5 shift; AP-medium
   decreases by 1.87 (p = 0.02), reported explicitly in the conclusions.
+- **No effect on the saturated small dataset (SSDD, 5 paired seeds).** Under
+  the final configuration (L2-only, k=3), no metric reaches significance
+  (all p >= 0.10; mAP@0.5:0.95 -0.36, p = 0.13). The AP-large trend is
+  negative in all five pairs (-3.69, p = 0.099) and is reported as an
+  underpowered, non-resolved trend rather than a confirmed decline.
 
 ## Repository layout
 
@@ -65,6 +70,7 @@ study for the framework.
    python src/audit_stripcglu_n5.py    # StripCGLU external audit (amp=False)
    python src/iso_control_n8.py        # isotropic control, 8 seeds
    python src/train_hrsc_n5.py         # optical HRSC2016, 5 seeds
+   python src/train_ssdd_n5.py         # SSDD final config, 5 seeds
    python src/eval_crossdomain_n8.py   # cross-domain inference on SSDD
    ```
 
